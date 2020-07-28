@@ -1,7 +1,7 @@
 # PLDT-GUESS
 A simple tool that can guess PLDT WIFI's default password.
 #
-![FIRST RUN OF MY TOOL](https://github.com/mkdirlove/PLDT-GUESS/blob/master/pldt-guess.png)
+![FIRST RUN OF MY TOOL](https://github.com/mkdirlove/PLDT-GUESS/blob/master/pldt-guess.gif)
 #
 # FEATURES
 - [x] GUESS PLDTHOMEDSL, PLDTmyDSLPAL, PLDmyDSLBiz (using mac address)
@@ -18,5 +18,8 @@ A simple tool that can guess PLDT WIFI's default password.
     
     $ bash pldt-guess.sh
     
+# PREVIEW
+![FIRST RUN OF MY TOOL](https://github.com/mkdirlove/PLDT-GUESS/blob/master/pldt-guess.png)
+#
 # THANKS FOR USING MY TOOLS...
     
